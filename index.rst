@@ -7,7 +7,7 @@ ij.start.canon || ij start canon setup
 If you have a Canon printer at your home or office and want the driver, go to URL ij.start.canon. Here you can download and install the driver for your canon printer. It will guide you through the steps to download and install and also how you can set up your canon printer with different devices via the wired or wireless method.
 
 |
-.. image:: ij-canon.jpg
+.. image:: get-started-button.png
     :width: 300px
     :align: center
     :height: 100px
