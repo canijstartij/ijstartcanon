@@ -1,4 +1,3 @@
-ij.start.canon
 
 #############
 ij.start.canon || ij start canon setup
