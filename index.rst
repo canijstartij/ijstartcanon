@@ -3,7 +3,8 @@
 ij.start.canon || ij start canon setup
 #############
 
-If you have a Canon printer at your home or office and want the driver, go to URL ij.start.canon. Here you can download and install the driver for your canon printer. It will guide you through the steps to download and install and also how you can set up your canon printer with different devices via the wired or wireless method.
+If you have a Canon printer at your home or office and want the driver, go to URL `ij.start.canon <https://ijcanstartij.readthedocs.io/en/latest/index.html>`_
+. Here you can download and install the driver for your canon printer. It will guide you through the steps to download and install and also how you can set up your canon printer with different devices via the wired or wireless method.
 
 |
 .. image:: get-started-button.png
@@ -18,7 +19,7 @@ If you have a Canon printer at your home or office and want the driver, go to UR
 ij.start.canon - What it is ?
 *************
 
-Ij.start.canon helps to set up canon printer. It’s the online support platform to download and install canon printer drivers, firmware, and software. To get started with ij.start canon setup, you can select wireless, wired, or USB connection method. Canon printer app is available for cableless ij start canon setup for smartphones.
+Ij.start.canon helps to set up canon printer. It’s the online support platform to download and install canon printer drivers, firmware, and software. To get started with `ij.start.canon <https://ijcanstartij.readthedocs.io/en/latest/index.html>`_ you can select wireless, wired, or USB connection method. Canon printer app is available for cableless ij start canon setup for smartphones.
 
 *************
 What can you do with Canon inkjet printers?
